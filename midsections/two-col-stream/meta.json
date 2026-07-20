@@ -1,0 +1,16 @@
+{
+  "name": "Two Column Stream",
+  "section": "midsections",
+  "family": "editorial",
+  "description": "Main story stream left (2/3) with sidebar latest-list right",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

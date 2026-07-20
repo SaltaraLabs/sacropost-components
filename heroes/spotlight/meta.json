@@ -1,0 +1,16 @@
+{
+  "name": "Spotlight",
+  "section": "heroes",
+  "family": "editorial",
+  "description": "Centred headline over a wide muted image, minimal chrome",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

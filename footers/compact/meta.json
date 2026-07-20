@@ -1,0 +1,16 @@
+{
+  "name": "Compact",
+  "section": "footers",
+  "family": "minimal",
+  "description": "Single row: logo left, nav links centre, copyright right",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

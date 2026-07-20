@@ -1,0 +1,16 @@
+{
+  "name": "Dark Top Bar",
+  "section": "headers",
+  "family": "editorial",
+  "description": "Dark nav with accent underlines and search icon",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

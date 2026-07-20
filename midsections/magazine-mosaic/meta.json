@@ -1,0 +1,16 @@
+{
+  "name": "Magazine Mosaic",
+  "section": "midsections",
+  "family": "magazine",
+  "description": "Asymmetric masonry grid with one large feature and five smalls",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

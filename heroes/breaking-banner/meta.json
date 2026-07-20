@@ -1,0 +1,16 @@
+{
+  "name": "Breaking Banner",
+  "section": "heroes",
+  "family": "tabloid",
+  "description": "Full-bleed image with headline overlaid at bottom, ticker strip below",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

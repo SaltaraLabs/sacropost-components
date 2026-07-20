@@ -1,0 +1,16 @@
+{
+  "name": "Category Tabs",
+  "section": "midsections",
+  "family": "magazine",
+  "description": "Horizontal scrollable category tabs each showing their top 3 stories",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

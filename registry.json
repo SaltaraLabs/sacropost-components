@@ -1,0 +1,127 @@
+{
+  "version": "1.0.0",
+  "components": {
+    "headers": [
+      {
+        "slug": "masthead",
+        "name": "Masthead",
+        "family": "tabloid",
+        "description": "Classic newspaper top bar with bold logo, date line and horizontal category nav"
+      },
+      {
+        "slug": "minimal-strip",
+        "name": "Minimal Strip",
+        "family": "minimal",
+        "description": "Single-line logo left, nav right, ultra-clean"
+      },
+      {
+        "slug": "magazine-banner",
+        "name": "Magazine Banner",
+        "family": "magazine",
+        "description": "Large centred logo, coloured top bar, two-row nav"
+      },
+      {
+        "slug": "dark-topbar",
+        "name": "Dark Top Bar",
+        "family": "editorial",
+        "description": "Dark nav with accent underlines and search icon"
+      },
+      {
+        "slug": "broadsheet",
+        "name": "Broadsheet",
+        "family": "tabloid",
+        "description": "Full-width date + edition bar above centred masthead logo"
+      }
+    ],
+    "heroes": [
+      {
+        "slug": "lead-full",
+        "name": "Lead Full",
+        "family": "editorial",
+        "description": "Single dominant story: large image left, headline + summary right"
+      },
+      {
+        "slug": "tabloid-grid",
+        "name": "Tabloid Grid",
+        "family": "tabloid",
+        "description": "Full-width lead image (60%) with stacked secondary stories alongside"
+      },
+      {
+        "slug": "magazine-split",
+        "name": "Magazine Split",
+        "family": "magazine",
+        "description": "Two equal hero stories side by side with category kickers"
+      },
+      {
+        "slug": "breaking-banner",
+        "name": "Breaking Banner",
+        "family": "tabloid",
+        "description": "Full-bleed image with headline overlaid at bottom, ticker strip below"
+      },
+      {
+        "slug": "spotlight",
+        "name": "Spotlight",
+        "family": "editorial",
+        "description": "Centred headline over a wide muted image, minimal chrome"
+      }
+    ],
+    "midsections": [
+      {
+        "slug": "three-col-grid",
+        "name": "Three Column Grid",
+        "family": "tabloid",
+        "description": "Three equal story columns with thumbnail, kicker and headline"
+      },
+      {
+        "slug": "two-col-stream",
+        "name": "Two Column Stream",
+        "family": "editorial",
+        "description": "Main story stream left (2/3) with sidebar latest-list right"
+      },
+      {
+        "slug": "search-bar",
+        "name": "Search Bar",
+        "family": "minimal",
+        "description": "Prominent search input + category filter chips above story grid"
+      },
+      {
+        "slug": "category-tabs",
+        "name": "Category Tabs",
+        "family": "magazine",
+        "description": "Horizontal scrollable category tabs each showing their top 3 stories"
+      },
+      {
+        "slug": "magazine-mosaic",
+        "name": "Magazine Mosaic",
+        "family": "magazine",
+        "description": "Asymmetric masonry grid with one large feature and five smalls"
+      },
+      {
+        "slug": "list-digest",
+        "name": "List Digest",
+        "family": "minimal",
+        "description": "Compact numbered list of latest articles, no images, text-first"
+      }
+    ],
+    "footers": [
+      {
+        "slug": "compact",
+        "name": "Compact",
+        "family": "minimal",
+        "description": "Single row: logo left, nav links centre, copyright right"
+      },
+      {
+        "slug": "full-sitemap",
+        "name": "Full Sitemap",
+        "family": "editorial",
+        "description": "Four-column link grid with logo and social icons above copyright"
+      },
+      {
+        "slug": "dark-branded",
+        "name": "Dark Branded",
+        "family": "tabloid",
+        "description": "Dark background, large logo, strapline, categories and socials"
+      }
+    ]
+  }
+}

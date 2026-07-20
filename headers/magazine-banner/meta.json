@@ -1,0 +1,16 @@
+{
+  "name": "Magazine Banner",
+  "section": "headers",
+  "family": "magazine",
+  "description": "Large centred logo, coloured top bar, two-row nav",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

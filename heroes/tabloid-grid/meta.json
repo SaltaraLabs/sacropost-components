@@ -1,0 +1,16 @@
+{
+  "name": "Tabloid Grid",
+  "section": "heroes",
+  "family": "tabloid",
+  "description": "Full-width lead image (60%) with stacked secondary stories alongside",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

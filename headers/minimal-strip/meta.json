@@ -1,0 +1,16 @@
+{
+  "name": "Minimal Strip",
+  "section": "headers",
+  "family": "minimal",
+  "description": "Single-line logo left, nav right, ultra-clean",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

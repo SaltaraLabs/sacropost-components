@@ -1,0 +1,16 @@
+{
+  "name": "List Digest",
+  "section": "midsections",
+  "family": "minimal",
+  "description": "Compact numbered list of latest articles, no images, text-first",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

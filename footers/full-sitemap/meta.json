@@ -1,0 +1,16 @@
+{
+  "name": "Full Sitemap",
+  "section": "footers",
+  "family": "editorial",
+  "description": "Four-column link grid with logo and social icons above copyright",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

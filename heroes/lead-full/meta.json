@@ -1,0 +1,16 @@
+{
+  "name": "Lead Full",
+  "section": "heroes",
+  "family": "editorial",
+  "description": "Single dominant story: large image left, headline + summary right",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

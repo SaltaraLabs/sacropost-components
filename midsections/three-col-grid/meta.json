@@ -1,0 +1,16 @@
+{
+  "name": "Three Column Grid",
+  "section": "midsections",
+  "family": "tabloid",
+  "description": "Three equal story columns with thumbnail, kicker and headline",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

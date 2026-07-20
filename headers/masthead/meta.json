@@ -1,0 +1,16 @@
+{
+  "name": "Masthead",
+  "section": "headers",
+  "family": "tabloid",
+  "description": "Classic newspaper top bar with bold logo, date line and horizontal category nav",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

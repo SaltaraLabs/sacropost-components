@@ -1,0 +1,16 @@
+{
+  "name": "Magazine Split",
+  "section": "heroes",
+  "family": "magazine",
+  "description": "Two equal hero stories side by side with category kickers",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

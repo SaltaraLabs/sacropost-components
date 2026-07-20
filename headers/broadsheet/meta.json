@@ -1,0 +1,16 @@
+{
+  "name": "Broadsheet",
+  "section": "headers",
+  "family": "tabloid",
+  "description": "Full-width date + edition bar above centred masthead logo",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}

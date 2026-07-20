@@ -1,0 +1,16 @@
+{
+  "name": "Search Bar",
+  "section": "midsections",
+  "family": "minimal",
+  "description": "Prominent search input + category filter chips above story grid",
+  "cssVars": [
+    "--accent",
+    "--bg",
+    "--text",
+    "--nav-bg",
+    "--nav-text",
+    "--divider"
+  ],
+  "preview": "preview.png",
+  "version": "1.0.0"
+}
